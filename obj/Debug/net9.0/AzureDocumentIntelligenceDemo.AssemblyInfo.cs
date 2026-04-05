@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureDocumentIntelligenceDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7d5a5d253966ad680a06c31bf160ee9422ffc08")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureDocumentIntelligenceDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureDocumentIntelligenceDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
